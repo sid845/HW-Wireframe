@@ -19,7 +19,7 @@ nav{
 
 .wrapper{
 	width:100%;
-	border:1px solid red;
+	
 }
 section{
 	background-color: #cccccc;
@@ -27,12 +27,13 @@ section{
 	padding-top: 10px;
 	margin-top: 10px;
 	margin-left: 80px;
-	margin-right: 80px;
+	margin-right: 0;
 	width:660px;
 	height:320px;	
-	border:1px solid blue;
+	
 	display: inline-block;
 }
+
 article{
 	background-color: grey;
 	text-align: center;
@@ -71,11 +72,13 @@ aside{
 	
 	margin-right:80px; 
 	float:right;
-	width:430px;
-	border:1px solid yellow;
-	height:100px;
+	width:500px;
+	
+	height:320px;
 
 }
+ 
+
 footer{
 	background-color: #cccccc;
 	text-align: center;
@@ -86,3 +89,7 @@ footer{
 	margin-left: 80px;
 
 }
+
+
+ 
+ 
